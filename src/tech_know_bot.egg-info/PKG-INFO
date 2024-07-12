@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: tech_know_bot
+Version: 0.0.0
+Summary: A micro-SaaS meant to be an analytics chatbot to help in product puchasing decision making.
+Home-page: https://github.com/RavinderRai/TechKnowBot
+Author: RavinderRai
+Author-email: ravi.b.rai@outlook.com
+Project-URL: Bug Tracker, https://github.com/RavinderRai/TechKnowBot/issues
+Requires-Python: >=3.10
+
 # Tech Know Bot
 
 A chatbot to help in deciding what electronic device to purchase, using a dataset of youtube reviews and related videos.
