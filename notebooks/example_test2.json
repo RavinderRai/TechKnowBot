@@ -27,16 +27,16 @@
                 "reason": "is one of many laptops from the company Samsung's popular line of laptops called Galaxy Book"
             },
             {
-                "text": "Acer Swift 5 2022",
+                "text": "Acer Swift 5",
                 "is_entity": true,
                 "label": "LAPTOP",
-                "reason": "is a laptop from the company Acer, and Swift 5 2022 is a reference to the model"
+                "reason": "is a laptop from the company Acer, and Swift 5 is a reference to the model"
             },
             {
-                "text": "MacBook Pro 13 18 in M2 2022",
+                "text": "MacBook Pro 13 in M2",
                 "is_entity": true,
                 "label": "LAPTOP",
-                "reason": "is one of many laptops from the company Apple's popular line of laptops called MacBook, and includes some specifications since there are various types of this popular laptop with the same name"
+                "reason": "is one of many laptops from the company Apple's popular line of laptops called MacBook, and includes 13 in which is the size of the screen: 13 inches, and M2 which is the Apple's signature chip"
             },
             {
                 "text": "Asus ROG Zephyrus G14",
@@ -57,7 +57,7 @@
                 "reason": "is a laptop from Lenovo, and Chromebook is a refence to Google's OS"
             },
             {
-                "text": "Asus Zenbook 13 OLED from a popular company",
+                "text": "Asus Zenbook 13 OLED",
                 "is_entity": true,
                 "label": "LAPTOP",
                 "reason": "is one of many laptops from the company Asus's popular line of laptops called Zenbook"
@@ -73,6 +73,12 @@
                 "is_entity": true,
                 "label": "LAPTOP",
                 "reason": "is a laptop from a popular company Dell"
+            },
+            {
+                "text": "MacBook Pro",
+                "is_entity": false,
+                "label": "==NONE==",
+                "reason": "is type of Apple laptop but doesn't have enough specifications in it's name to be an LAPTOP entity"
             },
             {
                 "text": "GPU",
